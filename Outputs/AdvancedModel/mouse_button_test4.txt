@@ -1,0 +1,19 @@
+################################################################################
+# M2: Parse tree based search results
+################################################################################
+
+Rows matching aspect 'mouse button' and opinion 'click problem' in parse tree:
+R12EZ0J6AXL4FU
+R1Q5450ZM8BK4O
+R1SIKK32J8VDJP
+R220QQRFMCLHK8
+R2MR3OTLB1C69S
+R2T2TJ0MD9AWFH
+R2UPY7QZE4J34R
+R2ZG7MOX70FK97
+R3MY3IUI0D9D97
+R75DYX22MHBJY
+R7XKRUIPJHAUG
+R9JZK9GPI1YTQ
+RA9UBV5ZFUJV0
+RE2TMWJ54MPJE

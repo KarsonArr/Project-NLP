@@ -1,0 +1,6 @@
+################################################################################
+# M2: Parse tree based search results
+################################################################################
+
+Rows matching aspect 'gps map' and opinion 'useful' in parse tree:
+R2PMU1EXQOAAC4

@@ -1,0 +1,9 @@
+################################################################################
+# M2: Parse tree based search results
+################################################################################
+
+Rows matching aspect 'wifi signal' and opinion 'strong' in parse tree:
+R2VQ73QW261XGD
+R3K0Q917C7ZYMX
+RMPL8JFV45X66
+RYV1QEVTATVKN
